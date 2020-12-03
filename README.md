@@ -1,1 +1,1 @@
-# bot-test
+$ npm install discord.js
